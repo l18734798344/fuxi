@@ -1,0 +1,14 @@
+git remote add origin "地址"
+
+git clone "地址"
+存到自己的空间
+git add
+
+
+拉取更新内容
+git pull origin master
+git commit -m
+
+推送自己的更改到远程
+
+git push -u origin master
